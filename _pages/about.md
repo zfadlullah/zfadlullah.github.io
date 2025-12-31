@@ -532,3 +532,5 @@ I am open to collaborations with researchers from academia and industry, particu
 **Lab:** ACCESS (Advanced Computing and Communication Enabled Smart Society) Research Lab  
 **Department:** Computer Science, Faculty of Science  
 **Institution:** Western University, London, Ontario, Canada
+
+
