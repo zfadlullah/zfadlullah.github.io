@@ -81,6 +81,9 @@ blog_nav_title: blog
 blog_description: Updates from the Advanced Computing and Communication Enabled Smart Society Research Lab
 permalink: /blog/:year/:title/
 
+navbar_nav:
+  enabled: true
+
 pagination:
   enabled: true
 
