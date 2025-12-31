@@ -449,3 +449,13 @@ vega-embed:
 vega-lite:
   version: "5.16.3"
   integrity: "sha256-TvBvIS5jUN4BSy009usRjNzjr9chunQ80EqtvzGLC7I="
+
+# -----------------------------------------------------------------------------
+# Third party libraries
+# -----------------------------------------------------------------------------
+third_party_libraries:
+  download: true
+  bootstrap-table:
+    integrity:
+      css: "sha256-uRX+PiRTR4ysKFRCykT8HLuRCub26LgXJZym3Yeom1c="
+      js: "sha256-4raPfP2wVxqjsBxmKS2JJ5EIl05C5Gd9vnDS7tPWKoc="
